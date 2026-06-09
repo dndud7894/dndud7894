@@ -1,8 +1,8 @@
 # 안녕하세요! 이우영입니다 👋
 
-<div align="center">
+'<div align="center">
   <img src="https://komarev.com/ghpvc/?username=dndud7894&color=25A6E9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+</div>'
 
 <br>
 
@@ -44,14 +44,14 @@
 
 ---
 
-### 📈 GitHub Stats
+'### 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dndud7894&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dndud7894&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dndud7894&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&v=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dndud7894&layout=compact&theme=radical&hide_border=true&v=1" /> 
 </div>
 
 <br>
 
 ### 📫 Contact & Links
 - **Email:** [우영 님의 이메일 주소 입력, 예: your_email@gmail.com]
-- **Portfolio:** [노션 포트폴리오나 링크드인이 있다면 주소 입력]
+- **Portfolio:** [노션 포트폴리오나 링크드인이 있다면 주소 입력]'
