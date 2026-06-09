@@ -19,7 +19,7 @@
 
 | Title         | Description                     | Period        | Role               | Organization          |
 |-----------------------|---------------------------------|---------------|--------------------|-----------------------|
-[인공지능을 활용한 유통관리 시스템] (https://github.com/dndud7894/Distribution_Management_System_Using_AI)  | YOLOv5를 활용한 제품 정보 추출과 자동화 유통 관리 시스템 | 2022.06 - 2023.06 | - 실시간 객체 탐지 모델 구현 및 경량화 및 HW 제어 <br> - 연구논문 작성      | 교내 프로젝트  |
+[인공지능을 활용한 유통관리 시스템](https://github.com/dndud7894/Distribution_Management_System_Using_AI)  | YOLOv5를 활용한 제품 정보 추출과 자동화 유통 관리 시스템 | 2022.06 - 2023.06 | - 실시간 객체 탐지 모델 구현 및 경량화 및 HW 제어 <br> - 연구논문 작성      | 교내 프로젝트  |
 
 
 <br>
