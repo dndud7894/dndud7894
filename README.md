@@ -1,4 +1,4 @@
-# 안녕하세요! AI 기반 시스템 통합 엔지니어 이우영입니다 👋
+# 안녕하세요! 이우영입니다 👋
 
 <div align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdndud7894&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
